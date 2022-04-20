@@ -13,18 +13,21 @@ body .foto-lucio {
     height: 500px;
     border-radius: 10%;
     margin-left: 40%;
+    border-style:inset;
+    border-color: red;
 }
 
 body .spooky {
     width: 500px;
     height: 400px;
-    align-items: center;
-}
+    margin-left: 32%;
+    border-radius: 40%;
+    border-style: groove;
+    margin-bottom: 100%;    
 
-header h1 {
-    margin: auto;
 }
 
 header {
     background-color: black;
+    text-align: center;
 }
